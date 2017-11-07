@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/cocoapods/l/ASNotificationCenter.svg?style=flat)](http://cocoapods.org/pods/ASNotificationCenter)
+[![Platform](https://img.shields.io/cocoapods/p/ASNotificationCenter.svg?style=flat)](http://cocoapods.org/pods/ASNotificationCenter)
+
 # simpleStackoverflow
 Search issues by name on stackoverflow.
 
