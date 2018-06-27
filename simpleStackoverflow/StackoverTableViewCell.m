@@ -37,7 +37,7 @@
     self.stackTitleLabel.text = _itemModel.titleItem;
     self.userNickLabel.text = _itemModel.owner.displayName;
     self.dateCreationLabel.text = [_itemModel.creationDate stringDateWithTime];
-    self.anwerCountLabel.text = [NSString stringWithFormat:@"%i Answer", (int)_itemModel.answerCount];
+    self.anwerCountLabel.text = [NSString stringWithFormat:@"%li Answer", itemModel.answerCount];
 }
 
 - (IBAction)userAvatar_touch:(id)sender {
