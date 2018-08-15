@@ -16,3 +16,5 @@ The resulting list of questions is displayed in a UITableView. The cell should c
 
 By clicking on the item in the table open the page with the corresponding question in safari.
 By clicking on the avatar opened in Mozilla user profile, asked a question.
+
+![](screens/s1.png)
